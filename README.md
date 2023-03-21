@@ -5,5 +5,8 @@ Aula06Devop
 
 * Mercurial
 * Git
+* GitLab
 * Subversion
 * CVS
+
+Conflito Resolvido
